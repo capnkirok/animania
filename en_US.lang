@@ -178,11 +178,16 @@ entity.animania.SowHampshire.name=Hampshire Sow
 entity.animania.PigletHampshire.name=Hampshire Piglet
 
 entity.animania.Hamster.name=Hamster
-entity.animania.GreyFerret.name=Grey Ferret
-entity.animania.WhiteFerret.name=White Ferret
+entity.animania.FerretGrey.name=Grey Ferret
+entity.animania.FerretWhite.name=White Ferret
 
-entity.animania.Peacock.name=Peacock
-entity.animania.Peafowl.name=Peafowl
+entity.animania.PeacockBlue.name=India Blue Peacock
+entity.animania.PeafowlBlue.name=India Blue Peafowl
+entity.animania.PeachickBlue.name=India Blue Peafowl
+
+entity.animania.PeacockWhite.name=White Peacock
+entity.animania.PeafowlWhite.name=White Peafowl
+entity.animania.PeachickWhite.name=White Peachick
 
 tile.animania_block_mud.name=Mud
 tile.animania_block_seeds.name=Seeds
