@@ -178,11 +178,16 @@ entity.animania.SowHampshire.name=Hampshire-Sau
 entity.animania.PigletHampshire.name=Hampshire-Ferkel
 
 entity.animania.Hamster.name=Hamster
-entity.animania.GreyFerret.name=Graues Frettchen
-entity.animania.WhiteFerret.name=Weißes Frettchen
+entity.animania.FerretGrey.name=Graues Frettchen
+entity.animania.FerretWhite.name=Weißes Frettchen
 
-entity.animania.Peacock.name=Pfau (männlich)
-entity.animania.Peafowl.name=Pfau (weiblich)
+entity.animania.PeacockBlue.name=Indischen Pfau (männlich)
+entity.animania.PeafowlBlue.name=Indischen Pfau (weiblich)
+entity.animania.PeachickBlue.name=Indischen Pfau
+
+entity.animania.PeacockWhite.name=Weißen Pfau (männlich)
+entity.animania.PeafowlWhite.name=Weißen Pfau (weiblich)
+entity.animania.PeachickWhite.name=Weißen Pfau
 
 tile.animania_block_mud.name=Schlamm
 tile.animania_block_seeds.name=Samen
