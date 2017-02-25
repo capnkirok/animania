@@ -189,6 +189,8 @@ entity.animania.PeacockWhite.name=White Peacock
 entity.animania.PeafowlWhite.name=White Peafowl
 entity.animania.PeachickWhite.name=White Peachick
 
+death.attack.bull=%1$s was gored to death
+
 tile.animania_block_mud.name=Mud
 tile.animania_block_seeds.name=Seeds
 tile.animania_block_trough.name=Trough
