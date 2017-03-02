@@ -1,4 +1,4 @@
-item.animania_hamster_food.name=Hamstermad
+item.animania_hamster_food.name=Hamsterfoder
 item.animania_truffle.name=Trøffel
 item.animania_brown_egg.name=Æg
 item.animania_bucket_slop.name=Spand med svinefoder
@@ -18,15 +18,15 @@ item.animania_raw_hereford_beef.name=Rå Bøf (Hereford)
 item.animania_cooked_hereford_roast.name=Stegt Bøf (Hereford)
 item.animania_raw_hereford_steak.name=Rå Steg (Hereford)
 item.animania_cooked_hereford_steak.name=Stegt Steg (Hereford)
-item.animania_raw_longhorn_beef.name=Rå Bøf (Langhorn)
-item.animania_cooked_longhorn_roast.name=Stegt Bøf (Langhorn)
-item.animania_raw_longhorn_steak.name=Rå Steg (Langhorn)
-item.animania_cooked_longhorn_steak.name=Stegt Steg (Langhorn)
+item.animania_raw_longhorn_beef.name=Rå Bøf (Longhorn)
+item.animania_cooked_longhorn_roast.name=Stegt Bøf (Longhorn)
+item.animania_raw_longhorn_steak.name=Rå Steg (Longhorn)
+item.animania_cooked_longhorn_steak.name=Stegt Steg (Longhorn)
 
-item.animania_raw_large_black_pork.name=Rå Flæsk (Stor Sort)
-item.animania_cooked_large_black_roast.name=Stegt Flæsk (Stor Sort)
-item.animania_raw_large_black_bacon.name=Rå Bacon (Stor Sort)
-item.animania_cooked_large_black_bacon.name=Bacon (Stor Sort)
+item.animania_raw_large_black_pork.name=Rå Flæsk (Large Black)
+item.animania_cooked_large_black_roast.name=Stegt Flæsk (Large Black)
+item.animania_raw_large_black_bacon.name=Rå Bacon (Large Black)
+item.animania_cooked_large_black_bacon.name=Bacon (Large Black)
 item.animania_raw_duroc_pork.name=Rå Flæsk (Duroc)
 item.animania_cooked_duroc_roast.name=Stegt Flæsk (Duroc)
 item.animania_raw_duroc_bacon.name=Rå Bacon (Duroc)
@@ -73,9 +73,9 @@ item.animania_entity_egg_calf_friesian.name=Frisisk-Kalv
 item.animania_entity_egg_cow_angus.name=Angus-Ko
 item.animania_entity_egg_bull_angus.name=Angus-Tyr
 item.animania_entity_egg_calf_angus.name=Angus-Kalv
-item.animania_entity_egg_cow_longhorn.name=Langhorn-Ko
-item.animania_entity_egg_bull_longhorn.name=Langhorn-Tyr
-item.animania_entity_egg_calf_longhorn.name=Langhorn-Kalv
+item.animania_entity_egg_cow_longhorn.name=Longhorn-Ko
+item.animania_entity_egg_bull_longhorn.name=Longhorn-Tyr
+item.animania_entity_egg_calf_longhorn.name=Longhorn-Kalv
 item.animania_entity_egg_cow_hereford.name=Hereford-Ko
 item.animania_entity_egg_bull_hereford.name=Hereford-Tyr
 item.animania_entity_egg_calf_hereford.name=Hereford-Kalv
@@ -105,12 +105,12 @@ item.animania_entity_egg_hog_oldspot.name=Old Spot-Orne
 item.animania_entity_egg_piglet_duroc.name=Duroc-Pattegris
 item.animania_entity_egg_sow_duroc.name=Duroc-So
 item.animania_entity_egg_hog_duroc.name=Duroc-Orne
-item.animania_entity_egg_piglet_largeblack.name=Stor Sort-Pattegris
-item.animania_entity_egg_sow_largeblack.name=Stor Sort-So
-item.animania_entity_egg_hog_largeblack.name=Stor Sort-Orne
-item.animania_entity_egg_piglet_largewhite.name=Stor Hvid-Pattegris
-item.animania_entity_egg_sow_largewhite.name=Stor Hvid-So
-item.animania_entity_egg_hog_largewhite.name=Stor Hvid-Orne
+item.animania_entity_egg_piglet_largeblack.name=Large Black-Pattegris
+item.animania_entity_egg_sow_largeblack.name=Large Black-So
+item.animania_entity_egg_hog_largeblack.name=Large Black-Orne
+item.animania_entity_egg_piglet_largewhite.name=Large White-Pattegris
+item.animania_entity_egg_sow_largewhite.name=Large White-So
+item.animania_entity_egg_hog_largewhite.name=Large White-Orne
 item.animania_entity_egg_piglet_hampshire.name=Hampshire-Pattegris
 item.animania_entity_egg_sow_hampshire.name=Hampshire-So
 item.animania_entity_egg_hog_hampshire.name=Hampshire-Orne
@@ -154,9 +154,9 @@ entity.animania.CalfFriesian.name=Friesian-Kalv
 entity.animania.BullHereford.name=Hereford-Tyr
 entity.animania.CowHereford.name=Hereford-Ko
 entity.animania.CalfHereford.name=Hereford-Kalv
-entity.animania.BullLonghorn.name Langhorn-Tyr
-entity.animania.CowLonghorn.name Langhorn-Ko
-entity.animania.CalfLonghorn.name Langhorn-Kalv
+entity.animania.BullLonghorn.name Longhorn-Tyr
+entity.animania.CowLonghorn.name Longhorn-Ko
+entity.animania.CalfLonghorn.name Longhorn-Kalv
 
 entity.animania.HogYorkshire.name=Yorkshire-Orne
 entity.animania.SowYorkshire.name=Yorkshire-So
@@ -164,12 +164,12 @@ entity.animania.PigletYorkshire.name=Yorkshire-Pattegris
 entity.animania.HogOldSpot.name=Old Spot-Orne
 entity.animania.SowOldSpot.name=Old Spot-So
 entity.animania.PigletOldSpot.name=Old Spot-Pattegris
-entity.animania.HogLargeBlack.name=Stor Sort-Orne
-entity.animania.SowLargeBlack.name=Stor Sort-So
-entity.animania.PigletLargeBlack.name=Stor Sort-Pattegris
-entity.animania.HogLargeWhite.name=Stor Hvid-Orne
-entity.animania.SowLargeWhite.name=Stor Hvid-So
-entity.animania.PigletLargeWhite.name=Stor Hvid-Pattegris
+entity.animania.HogLargeBlack.name=Big Black-Orne
+entity.animania.SowLargeBlack.name=Big Black-So
+entity.animania.PigletLargeBlack.name=Big Black-Pattegris
+entity.animania.HogLargeWhite.name=Big White-Orne
+entity.animania.SowLargeWhite.name=Big White-So
+entity.animania.PigletLargeWhite.name=Big White-Pattegris
 entity.animania.HogDuroc.name=Duroc-Orne
 entity.animania.SowDuroc.name=Duroc-So
 entity.animania.PigletDuroc.name=Duroc-Pattegris
@@ -181,8 +181,15 @@ entity.animania.Hamster.name=Hamster
 entity.animania.GreyFerret.name=Grå Fritte
 entity.animania.WhiteFerret.name=Hvid Fritte
 
-entity.animania.Peacock.name=Hanpåfugl
-entity.animania.Peafowl.name=Hunpåfugl
+entity.animania.PeacockBlue.name=Blå Hanpåfugl 
+entity.animania.PeafowlBlue.name=Blå Hunpåfugl
+entity.animania.PeachickBlue.name=Blå Påfugleunge
+
+entity.animania.PeacockWhite.name=Hvid Hanpåfugl 
+entity.animania.PeafowlWhite.name=Hvid Hunpåfugl
+entity.animania.PeachickWhite.name=Hvid Påfugleunge
+
+death.attack.bull=%1$s blev stanget ihjel
 
 tile.animania_block_mud.name=Mudder
 tile.animania_block_seeds.name=Frø
@@ -252,7 +259,8 @@ achievement.an.hamsters=Hamsterhvisker
 achievement.an.hamsters.desc=Bliv ven med en hamster
 
 
+
 animania.updatetext.1=Animania Version 
 animania.updatetext.2=er nu tilgængelig
-animania.updatetext.3=Kunne ikke opnå forbindelse til at tjekke om en ny opdatering til Animania er tilgængelig
-animania.update.download=["Klik for at: [",{"text":"Downloade","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Klik for at se dine seneste filer, der er tilgængelige for download","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/animania/files"}},"]"]
+animania.updatetext.3=Forbindelse til at tjekke efter ny opdatering til Animania kunne ikke opnås
+animania.update.download=["Klik for at: [",{"text":"Downloade","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Klik for at se de seneste 1.10 filer, der er tilgængelige for download","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/animania/files"}},"]"]
