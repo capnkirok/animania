@@ -1,4 +1,5 @@
 item.animania_hamster_food.name=Hamster Food
+item.animania_chicken_feed.name=Chicken Feed
 item.animania_truffle.name=Truffle
 item.animania_brown_egg.name=Egg
 item.animania_bucket_slop.name=Bucket o' Slop
@@ -118,6 +119,8 @@ item.animania_entity_egg_hog_hampshire.name=Hampshire Hog
 item.animania_entity_egg_hamster.name=Hamster
 item.animania_entity_egg_ferret_white.name=White Ferret
 item.animania_entity_egg_ferret_grey.name=Grey Ferret
+item.animania_entity_egg_hedgehog.name=Hedgehog
+item.animania_entity_egg_hedgehog_albino.name=Albino Hedgehog
 
 item.animania_entity_egg_peacock_blue.name=India Blue Peacock 
 item.animania_entity_egg_peafowl_blue.name=India Blue Peafowl
@@ -180,6 +183,8 @@ entity.animania.PigletHampshire.name=Hampshire Piglet
 entity.animania.Hamster.name=Hamster
 entity.animania.FerretGrey.name=Grey Ferret
 entity.animania.FerretWhite.name=White Ferret
+entity.animania.Hedgehog.name=Hedgehog
+entity.animania.HedgehogAlbino.name=Albino Hedgehog
 
 entity.animania.PeacockBlue.name=India Blue Peacock
 entity.animania.PeafowlBlue.name=India Blue Peafowl
@@ -255,10 +260,15 @@ achievement.an.whiteferret.desc=Befriend a White Ferret
 achievement.an.ferrets=Ferret Whisperer
 achievement.an.ferrets.desc=Befriend all the Ferret breeds
 
+achievement.an.greyferret=Hedgehog
+achievement.an.greyferret.desc=Befriend a Hedgehog
+achievement.an.whiteferret=Albino Hedgehog
+achievement.an.whiteferret.desc=Befriend an Albino Hedgehog
+achievement.an.hedgehogs=Hedgehog Whisperer
+achievement.an.hedgehogs.desc=Befriend all the Hedgehog breeds
+
 achievement.an.hamsters=Hamster Whisperer
 achievement.an.hamsters.desc=Befriend a Hamster
-
-
 
 animania.updatetext.1=Animania Version 
 animania.updatetext.2=is now available
