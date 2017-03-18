@@ -260,12 +260,17 @@ achievement.an.whiteferret.desc=Befriend a White Ferret
 achievement.an.ferrets=Ferret Whisperer
 achievement.an.ferrets.desc=Befriend all the Ferret breeds
 
-achievement.an.greyferret=Hedgehog
-achievement.an.greyferret.desc=Befriend a Hedgehog
-achievement.an.whiteferret=Albino Hedgehog
-achievement.an.whiteferret.desc=Befriend an Albino Hedgehog
+achievement.an.hedgehog=Hedgehog
+achievement.an.hedgehog.desc=Befriend a Hedgehog
+achievement.an.albinohedgehog=Albino Hedgehog
+achievement.an.albinohedgehog.desc=Befriend an Albino Hedgehog
 achievement.an.hedgehogs=Hedgehog Whisperer
 achievement.an.hedgehogs.desc=Befriend all the Hedgehog breeds
+
+achievement.an.hedgehogsonic=Gotta Go Fast!
+achievement.an.hedgehogsonic.desc=Discover Sonic
+achievement.an.hedgehogsanic=No Go Fastr!!!
+achievement.an.hedgehogsanic.desc=Cumon Step it Up!!
 
 achievement.an.hamsters=Hamster Whisperer
 achievement.an.hamsters.desc=Befriend a Hamster
