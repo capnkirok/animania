@@ -6,6 +6,9 @@ item.animania_bucket_slop.name=Bucket o' Slop
 item.animania_carving_knife.name=Carving Knife
 item.animania_cheese_mold.name=Cheese Mold
 
+item.animania_blue_peacock_feather.name=Blue Peacock Feather
+item.animania_white_peacock_feather.name=White Peacock Feather
+
 item.animania_carving_knife.desc=Used to carve meats and cheeses
 item.animania_cheese_mold.desc=Used to make cheese
 item.animania_entity_egg.desc1=Spawn
@@ -128,6 +131,10 @@ item.animania_entity_egg_peachick_blue.name=India Blue Peachick
 item.animania_entity_egg_peacock_white.name=White Peacock 
 item.animania_entity_egg_peafowl_white.name=White Peafowl
 item.animania_entity_egg_peachick_white.name=White Peachick
+
+item.animania_entity_egg_cow_random.name=Random Cow
+item.animania_entity_egg_pig_random.name=Random Pig
+item.animania_entity_egg_chicken_random.name=Random Chicken
 
 entity.animania.ChickRhodeIslandRed.name=Rhode Island Red Chick
 entity.animania.HenRhodeIslandRed.name=Rhode Island Red Hen
@@ -279,3 +286,14 @@ animania.updatetext.1=Animania Version
 animania.updatetext.2=is now available
 animania.updatetext.3=Failed to connect to see if an update to Animania is available
 animania.update.download=["Click to: [",{"text":"Download","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to see the latest files for 1.10 available for download","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/animania/files"}},"]"]
+
+tooltip.an.cheeseomelette=Instant Health
+tooltip.an.baconomelette=Strength (30 seconds)
+tooltip.an.truffleomelette=Regeneration (30 seconds)
+tooltip.an.instanthealth=Instant Health
+tooltip.an.chocolatetruffle=Speed Boost (1 minute)
+tooltip.an.absorption=Absorption
+tooltip.an.regeneration=Regeneration
+tooltip.an.haste=Haste
+tooltip.an.healthboost=Health Boost
+tooltip.an.edibleanytime=Edible Anytime
