@@ -6,6 +6,9 @@ item.animania_bucket_slop.name=泔水桶
 item.animania_carving_knife.name=餐刀
 item.animania_cheese_mold.name=奶酪压模
 
+item.animania_blue_peacock_feather.name=蓝孔雀羽毛
+item.animania_white_peacock_feather.name=白孔雀羽毛
+
 item.animania_carving_knife.desc=用来切肉和奶酪
 item.animania_cheese_mold.desc=用来制作奶酪
 item.animania_entity_egg.desc1=刷怪蛋
@@ -129,6 +132,10 @@ item.animania_entity_egg_peacock_white.name=白孔雀（雄）
 item.animania_entity_egg_peafowl_white.name=白孔雀（雌）
 item.animania_entity_egg_peachick_white.name=白孔雀（雏）
 
+item.animania_entity_egg_cow_random.name=牛（随机）
+item.animania_entity_egg_pig_random.name=猪（随机）
+item.animania_entity_egg_chicken_random.name=鸡（随机）
+
 entity.animania.ChickRhodeIslandRed.name=罗得岛红鸡（小鸡）
 entity.animania.HenRhodeIslandRed.name=罗得岛红鸡（母鸡）
 entity.animania.RoosterRhodeIslandRed.name=罗得岛红鸡（公鸡）
@@ -198,9 +205,9 @@ death.attack.bull=%1$s 被牛顶死
 
 tile.animania_block_mud.name=污泥
 tile.animania_block_seeds.name=种子
-tile.animania_block_trough.name=饮水槽
+tile.animania_block_trough.name=食槽
 tile.animania_block_nest.name=鸡窝
-tile.animania_invisiblock.name=饮水槽
+tile.animania_invisiblock.name=食槽
 
 tab.animania_entities.label=Animania|生物
 tab.animania_resources.label=Animania|资源
@@ -279,3 +286,14 @@ animania.updatetext.1=Animania最新版本：
 animania.updatetext.2=现已可用
 animania.updatetext.3=无法检测Animania更新
 animania.update.download=["点击：[",{"text":"下载","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"点此以查看1.10版本可供下载的最新文件","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/animania/files"}},"]"]
+
+tooltip.an.cheeseomelette=瞬间治疗
+tooltip.an.baconomelette=力量（30秒）
+tooltip.an.truffleomelette=再生（30秒）
+tooltip.an.instanthealth=瞬间治疗
+tooltip.an.chocolatetruffle=速度（1分钟）
+tooltip.an.absorption=伤害吸收
+tooltip.an.regeneration=再生
+tooltip.an.haste=急迫
+tooltip.an.healthboost=生命恢复
+tooltip.an.edibleanytime=随时可吃
