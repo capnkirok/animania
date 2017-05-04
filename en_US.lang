@@ -53,6 +53,17 @@ item.animania_cooked_rhode_island_red_chicken.name=Roast Chicken (Rhode Island R
 item.animania_raw_wyandotte_chicken.name=Raw Chicken (Wyandotte)
 item.animania_cooked_wyandotte_chicken.name=Roast Chicken (Wyandotte)
 
+item.animania_raw_prime_beef.name=Raw Prime Beef
+item.animania_cooked_prime_beef.name=Roast Prime Beef
+item.animania_raw_prime_steak.name=Raw Prime Steak
+item.animania_cooked_prime_steak.name=Roast Prime Steak
+item.animania_raw_prime_pork.name=Raw Prime Pork
+item.animania_cooked_prime_pork.name=Roast Prime Pork
+item.animania_raw_prime_bacon.name=Raw Prime Bacon
+item.animania_cooked_prime_bacon.name=Roast Prime Bacon
+item.animania_raw_prime_chicken.name=Raw Prime Chicken
+item.animania_cooked_prime_chicken.name=Roast Prime Chicken
+
 item.animania_friesian_cheese_wheel.name=Cheese Wheel (Friesian)
 item.animania_friesian_cheese_wedge.name=Cheese Wedge (Friesian)
 item.animania_holstein_cheese_wheel.name=Cheese Wheel (Holstein)
@@ -168,9 +179,9 @@ entity.animania.BullLonghorn.name=Longhorn Bull
 entity.animania.CowLonghorn.name=Longhorn Cow
 entity.animania.CalfLonghorn.name=Longhorn Calf
 
-entity.animania.HogYorkshire.name=Yorkshire Hog
-entity.animania.SowYorkshire.name=Yorkshire Sow
-entity.animania.PigletYorkshire.name=Yorkshire Piglet
+entity.animania.HogYorkshire.name=American Yorkshire Hog
+entity.animania.SowYorkshire.name=American Yorkshire Sow
+entity.animania.PigletYorkshire.name=American Yorkshire Piglet
 entity.animania.HogOldSpot.name=Old Spot Hog
 entity.animania.SowOldSpot.name=Old Spot Sow
 entity.animania.PigletOldSpot.name=Old Spot Piglet
@@ -285,7 +296,7 @@ achievement.an.hamsters.desc=Befriend a Hamster
 animania.updatetext.1=Animania Version 
 animania.updatetext.2=is now available
 animania.updatetext.3=Failed to connect to see if an update to Animania is available
-animania.update.download=["Click to: [",{"text":"Download","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to see the latest files for 1.10 available for download","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/animania/files"}},"]"]
+animania.update.download=["Click to: [",{"text":"Download","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to see the latest files available for download","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/animania/files"}},"]"]
 
 tooltip.an.cheeseomelette=Instant Health
 tooltip.an.baconomelette=Strength (30 seconds)
@@ -296,4 +307,5 @@ tooltip.an.absorption=Absorption
 tooltip.an.regeneration=Regeneration
 tooltip.an.haste=Haste
 tooltip.an.healthboost=Health Boost
+
 tooltip.an.edibleanytime=Edible Anytime
