@@ -64,6 +64,9 @@ item.animania_cooked_prime_bacon.name=Roast Prime Bacon
 item.animania_raw_prime_chicken.name=Raw Prime Chicken
 item.animania_cooked_prime_chicken.name=Roast Prime Chicken
 
+item.animania_raw_frog_legs.name=Raw Frog Legs
+item.animania_cooked_frog_legs.name=Cooked Frog Legs
+
 item.animania_friesian_cheese_wheel.name=Cheese Wheel (Friesian)
 item.animania_friesian_cheese_wedge.name=Cheese Wedge (Friesian)
 item.animania_holstein_cheese_wheel.name=Cheese Wheel (Holstein)
@@ -147,6 +150,10 @@ item.animania_entity_egg_cow_random.name=Random Cow
 item.animania_entity_egg_pig_random.name=Random Pig
 item.animania_entity_egg_chicken_random.name=Random Chicken
 
+item.animania_entity_egg_frog.name=Frog
+item.animania_entity_egg_toad.name=Toad
+item.animania_entity_egg_dart_frog.name=Dart Frog
+
 entity.animania.ChickRhodeIslandRed.name=Rhode Island Red Chick
 entity.animania.HenRhodeIslandRed.name=Rhode Island Red Hen
 entity.animania.RoosterRhodeIslandRed.name=Rhode Island Red Rooster
@@ -212,6 +219,10 @@ entity.animania.PeacockWhite.name=White Peacock
 entity.animania.PeafowlWhite.name=White Peafowl
 entity.animania.PeachickWhite.name=White Peachick
 
+entity.animania:frog.name=Frog
+entity.animania:toad.name=Toad
+entity.animania:dartfrog.name=Tree Frog
+
 death.attack.bull=%1$s was gored to death
 
 tile.animania_block_mud.name=Mud
@@ -219,6 +230,12 @@ tile.animania_block_seeds.name=Seeds
 tile.animania_block_trough.name=Trough
 tile.animania_block_nest.name=Nest
 tile.animania_invisiblock.name=Trough
+
+
+fluid.slop=Slop
+fluid.milk_holstein=Holstein Milk
+fluid.milk_friesian=Friesian Milk
+
 
 tab.animania_entities.label=Animania Entities
 tab.animania_resources.label=Animania Resources
@@ -289,6 +306,8 @@ achievement.an.hedgehogsonic=Gotta Go Fast!
 achievement.an.hedgehogsonic.desc=Discover Sonic
 achievement.an.hedgehogsanic=No Go Fastr!!!
 achievement.an.hedgehogsanic.desc=Cumon Step it Up!!
+achievement.an.feelsbadman=Kill the King of Memes
+achievement.an.feelsbadman.desc=Y u do dis
 
 achievement.an.hamsters=Hamster Whisperer
 achievement.an.hamsters.desc=Befriend a Hamster
@@ -307,5 +326,37 @@ tooltip.an.absorption=Absorption
 tooltip.an.regeneration=Regeneration
 tooltip.an.haste=Haste
 tooltip.an.healthboost=Health Boost
+tooltip.an.jumping=Jump Boost
 
 tooltip.an.edibleanytime=Edible Anytime
+
+animania.category.gamerules=Game Rules
+animania.category.spawn=Spawn
+animania.category.entity=Entities
+animania.category.careandfeeding=Care and Feeding
+animania.category.drops=Drops
+
+text.waila.fed=Well fed
+text.waila.thirsty=Thirsty
+text.waila.hungry=Hungry
+text.waila.mated=Mated
+text.waila.matemissing=Mate missing
+text.waila.milkable=Ready to milk
+text.waila.parent=Parent
+text.waila.parentmissing=Parent missing
+text.waila.played=Cheerful
+text.waila.bored=Bored
+text.waila.egglay=Ticks until next egg
+text.waila.sitting=Sitting
+text.waila.tamed=Tamed
+text.waila.ownermissing=Owner missing
+
+text.jei.trough=The trough can be used to feed your animals. Right click it with Wheat, a Water Bucket or a Slop Bucket to fill it up.
+text.jei.mud=Mud blocks are essential for pigs, they love to dig around in it.
+text.jei.seeds=Seeds can be placed on the ground by right clicking, and are used as food for chickens.
+text.jei.truffle=Truffles are found by wandering around forests with a tamed, leashed pig.
+text.jei.nest=Nests are used by hens, because they need a place to lay their eggs.
+text.jei.slop=Slop is the favourite food of pigs.
+text.jei.slop.craft=To craft it, combine any bucket of milk with two different veggies. Veggies include Carrots, Potatoes, Beetroots and Bread.
+text.jei.milkholstein=Holstein Milk is obtained by Holstein Cows.
+text.jei.milkfriesian=Friesian Milk is obtained by Friesian Cows.
