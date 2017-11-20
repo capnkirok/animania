@@ -100,7 +100,7 @@ item.animania_raw_frog_legs.name=生蛙腿
 item.animania_cooked_frog_legs.name=烤蛙腿
 
 item.animania_raw_chevon.name=生一级羊肉
-item.animania_cooked_chevon.name.Roast Chevon
+item.animania_cooked_chevon.name=烤一级羊肉
 item.animania_raw_prime_chevon.name=生一级山羊肉
 item.animania_cooked_prime_chevon.name=烤一级山羊肉
 
@@ -489,7 +489,7 @@ animania.updatetext.3=无法检测动物谷更新
 animania.update.download=["点击: [",{"text":"下载","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"点此以查看可供下载的最新文件","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/animania/files"}},"]"]
 
 tooltip.an.instanthealth=瞬间治疗
-tooltip.an.speed=速度提升
+tooltip.an.speed=速度
 tooltip.an.absorption=伤害吸收
 tooltip.an.regeneration=再生
 tooltip.an.haste=急迫
