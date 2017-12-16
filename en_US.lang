@@ -37,7 +37,6 @@ item.animania_taupe_peacock_feather.name=Taupe Peacock Feather
 item.animania_peacock_egg_blue.name=Peacock Egg
 item.animania_peacock_egg_white.name=Peacock Egg
 
-
 item.animania_carving_knife.desc=Used to carve meats and cheeses
 item.animania_cheese_mold.desc=Used to make cheese
 item.animania_entity_egg.desc1=Spawn
@@ -97,7 +96,7 @@ item.animania_raw_frog_legs.name=Raw Frog Legs
 item.animania_cooked_frog_legs.name=Cooked Frog Legs
 
 item.animania_raw_chevon.name=Raw Chevon
-item.animania_cooked_chevon.name.Roast Chevon
+item.animania_cooked_chevon.name=Roast Chevon
 item.animania_raw_prime_chevon.name=Raw Prime Chevon
 item.animania_cooked_prime_chevon.name=Cooked Prime Chevon
 
@@ -670,4 +669,3 @@ advancements.animania.ride.title=Seabiscuit
 advancements.animania.ride.description=Ride a Draft Horse
 advancements.animania.pepe.title=Pepe
 advancements.animania.pepe.description=A classic
-
