@@ -6,6 +6,9 @@ item.animania_bucket_slop.name=Ведро с помоями
 item.animania_carving_knife.name=Разделочный нож
 item.animania_cheese_mold.name=Форма для сыра
 item.animania_riding_crop.name=Стек для верховой езды
+item.animania_wheel.name=Колесо
+item.animania_salt.name=Соль
+item.animania_milk_bottle.name=Бутылка Молока
 
 item.animania_hamster_ball_clear.name=Прозрачный шар для хомяка
 item.animania_hamster_ball_black.name=Черный шар для хомяка
@@ -32,8 +35,10 @@ item.animania_opal_peacock_feather.name=Матово-белое павлинье
 item.animania_peach_peacock_feather.name=Персиковое павлинье перо
 item.animania_purple_peacock_feather.name=Фиолетовое павлинье перо
 item.animania_taupe_peacock_feather.name=Темно-серое павлинье перо
+
 item.animania_peacock_egg_blue.name=Павлинье яйцо 
 item.animania_peacock_egg_white.name=Павлинье яйцо
+
 
 item.animania_carving_knife.desc=Используется для разделки мяса и сыров
 item.animania_cheese_mold.desc=Используется для приготовления сыра
@@ -108,14 +113,14 @@ tile.animania_cheese_friesian.name=Круг сыра (Фризская)
 item.animania_friesian_cheese_wedge.name=Кусок сыра (Фризская)
 tile.animania_cheese_holstein.name=Круг сыра (Голштинская)
 item.animania_holstein_cheese_wedge.name=Кусок сыра (Голштинская)
-item.animania_holstein_bucket_milk.name=Ведро молока (Голштинская)
-item.animania_friesian_bucket_milk.name=Ведро молока (Фризская)
-item.animania_goat_bucket_milk.name=Ведро молока (Коза)
-item.animania_sheep_bucket_milk.name=Ведро молока (Овца)
 tile.animania_cheese_goat.name=Круг сыра (Коза)
 item.animania_goat_cheese_wedge.name=Кусок сыра (Коза)
 tile.animania_cheese_sheep.name=Круг сыра (Овца)
 item.animania_sheep_cheese_wedge.name=Кусок сыра (Овца)
+item.animania_holstein_bucket_milk.name=Ведро молока (Голштинская)
+item.animania_friesian_bucket_milk.name=Ведро молока (Фризская)
+item.animania_goat_bucket_milk.name=Ведро молока (Коза)
+item.animania_sheep_bucket_milk.name=Ведро молока (Овца)
 item.animania_truffle_soup.name=Трюфельный суп
 item.animania_chocolate_truffle.name=Трюфельный шоколад
 
@@ -261,6 +266,7 @@ item.animania_entity_egg_lamb_merino.name=Ягненок меринос
 item.animania_entity_egg_ram_jacob.name= Баран Якова
 item.animania_entity_egg_ewe_jacob.name=Овца Якова
 item.animania_entity_egg_lamb_jacob.name=Ягненок Якова
+
 
 item.animania_entity_egg_buck_cottontail.name=Американский кролик
 item.animania_entity_egg_doe_cottontail.name=Американская крольчиха
@@ -440,6 +446,7 @@ entity.animania:kit_newzealand.name=Новозеландский крольчо�
 entity.animania:buck_rex.name=Кролик рекс
 entity.animania:doe_rex.name=Крольчиха рекс
 entity.animania:kit_rex.name=Крольчонок рекс
+
 death.attack.bull=Игрока %1$s забодал бык
 death.attack.pepe=Игрок %1$s стал жертвой мема
 
@@ -450,6 +457,12 @@ tile.animania_block_nest.name=Гнездо
 tile.animania_invisiblock.name=Корыто
 tile.animania_block_hamster_wheel.name=Колесо для хомячка
 tile.animania_salt_lick.name=Солевой лизунец
+
+entity.animania:wagon.name=Крытый вагон
+item.wagon.name=Крытый вагон
+
+entity.animania:cart.name=Телега для лошади
+item.cart.name=Телега для лошади
 
 tile.animania_wool_dorset_brown.name=Шерсть (Дорсет, коричневая)
 tile.animania_wool_friesian_black.name=Шерсть (Фризская, Черная)
@@ -468,6 +481,7 @@ fluid.milk_sheep=Овечье молоко
 tab.animania_entities.label=Animania Сущности
 tab.animania_resources.label=Animania Ресурсы
 
+
 animania.updatetext.1=Версия мода Animania
 animania.updatetext.2=теперь доступна
 animania.updatetext.3=Не получилось соединиться для проверки обновления мода Animania
@@ -484,7 +498,6 @@ tooltip.an.haste=Спешка
 tooltip.an.healthboost=Увеличение регенерации
 tooltip.an.jumping=Улучшение прыжка
 tooltip.an.resistance=Сопротивление
-
 tooltip.an.ridingcrop1=Используйте для верховой езды на сытой рабочей лошади
 tooltip.an.ridingcrop2=Во время езды нажмите ВНИЗ, чтобы увеличить скорость
 tooltip.an.hamsterball1=Использовать на прирученных хомяках, чтобы посадить
@@ -499,7 +512,6 @@ animania.category.careandfeeding=Уход и кормление
 animania.category.drops=Дропы
 animania.category.forbiddentiles=Запрещенные объекты
 animania.category.foodvalues=Корректировка пищевой ценности продуктов
-
 
 text.waila.fed=Сытый
 text.waila.thirsty=Жаждущий
@@ -535,6 +547,9 @@ text.jei.milkfriesian=Молоко коров Фризской породы да
 text.jei.milkgoat=Козье молоко получают, когда доят коз (не козлов!)
 text.jei.milksheep=Овечье молоко дают овцы (не бараны!)
 text.jei.salt=Соль получают, налив воду в форму для сыра и дождавшись, когда она испарится.
+
+
+
 advancements.animania.root.title=Animania
 advancements.animania.root.desc=Animania, реалистичный мод с животными
 advancements.animania.cows.title=Коровы
